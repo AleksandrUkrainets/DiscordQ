@@ -2,7 +2,7 @@
 {
     public class UserService : IUserService
     {
-        private User _user = new User() { FirstName = "UserProfile FirstName", LastName = "UserProfile LastName", NickName = "UserProfile NickName" };
+        private User _user = new User() { FirstName = "James", LastName = "Clancey", NickName = "CometsCreater" };
 
         public User GetUser()
         {

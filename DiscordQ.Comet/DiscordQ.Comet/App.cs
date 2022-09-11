@@ -1,5 +1,6 @@
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Hosting;
+using DiscordQ.Comet.Pages;
 using View = Comet.View;
 
 namespace DiscordQ.Comet
